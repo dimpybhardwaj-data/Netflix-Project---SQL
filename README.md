@@ -1,2 +1,3 @@
 # Netflix-Project---SQL
-!(https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg)
+<img src="images/netflix_logo.webp" alt="Netflix Logo" width="300">
+
