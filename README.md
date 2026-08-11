@@ -1,3 +1,4 @@
 # Netflix-Project---SQL
-<img src="https://static.vecteezy.com/system/resources/previews/024/273/839/original/netflix-logo-transparent-free-png.png" alt="Netflix Logo" width="200" />
-
+<center>
+  <img src="https://static.vecteezy.com/system/resources/previews/024/273/839/original/netflix-logo-transparent-free-png.png" alt="Netflix Logo" width="200" />
+</center>
