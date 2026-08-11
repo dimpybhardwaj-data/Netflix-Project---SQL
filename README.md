@@ -1,2 +1,2 @@
 # Netflix-Project---SQL
-("C:\\Users\\Dimpy\\Downloads\\netflix logo.webp")
+!(https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg)
