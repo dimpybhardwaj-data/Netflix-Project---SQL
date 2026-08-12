@@ -4,13 +4,12 @@
 </div>
 
 ## Tools Used
-Excel, MySQL, Tableau
+MySQL
 
 ## Datasets Used
 
-[SQL Analysis (Code)](Netflix_Project_Insights.sql)
+[SQL Analysis (Code)](Netflix Project Insights.sql)
 
-[Netflix Dashboard - Tableau](#)
 
 ---
 
