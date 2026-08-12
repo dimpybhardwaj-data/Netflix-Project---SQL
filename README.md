@@ -8,7 +8,7 @@ MySQL
 
 ## Datasets Used
 
-[SQL Analysis (Code)](Netflix Project Insights.sql)
+[SQL Analysis (Code)](Netflix_Project_Insights.sql)
 
 
 ---
