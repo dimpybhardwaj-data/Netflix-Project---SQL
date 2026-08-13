@@ -4,13 +4,12 @@
 </div>
 
 ## Tools Used
-MySQL
+MySQL Workbench
 
 ## Datasets Used
 
 [SQL Analysis (Code)](Netflix_Project_Insights.sql)
 
 
----
 
 
