@@ -3,10 +3,10 @@
   <img src="https://static.vecteezy.com/system/resources/previews/024/273/839/original/netflix-logo-transparent-free-png.png" alt="Netflix Logo" width="200" />
 </div>
 
-**Project Overview**
+## Project Overview
 This project analyzes Netflix’s catalog using SQL to uncover growth trends, genre popularity, country contributions, and content safety. It demonstrates SQL skills in grouping, ranking, window functions, and business storytelling.
 
-**Dataset**: Netflix titles dataset with attributes such as title, type, country, genre, cast, director, release year, rating, duration, and description.
+## Dataset : Netflix titles dataset with attributes such as title, type, country, genre, cast, director, release year, rating, duration, and description.
 
 ## Tools Used
 MySQL Workbench
