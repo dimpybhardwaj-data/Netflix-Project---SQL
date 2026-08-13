@@ -83,7 +83,7 @@ By systematically answering these questions with SQL:
 This demonstrates how SQL can solve real business problems, not just technical queries.
 
 
-SQL Techniques Used
+## SQL Techniques Used
 - List the SQL concepts you applied — this shows technical depth.
 - Aggregations (COUNT, AVG, SUM)
 - Filtering (WHERE, LIKE)
@@ -99,9 +99,8 @@ SQL Techniques Used
 3. Run queries on the `netflix_final` table.
 
 
-**Future Work**
+## Future Work
 Show you think ahead.
-
 - Extend analysis with joins (cast/director breakdown).
 - Add visualization in Power BI.
 - Compare Netflix with competitors (Prime, Disney+).
