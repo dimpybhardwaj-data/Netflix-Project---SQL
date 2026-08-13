@@ -83,6 +83,16 @@ By systematically answering these questions with SQL:
 This demonstrates how SQL can solve real business problems, not just technical queries.
 
 
+SQL Techniques Used
+- List the SQL concepts you applied — this shows technical depth.
+- Aggregations (COUNT, AVG, SUM)
+- Filtering (WHERE, LIKE)
+- Grouping (GROUP BY, HAVING)
+- Sorting (ORDER BY, LIMIT)
+- Window Functions (RANK, DENSE_RANK, SUM OVER)
+- String & Date Functions (YEAR, ROUND)
+
+
 ## How to Run
 1. Clone the repository  
 2. Import `Netflix_Project_Insights.sql` into MySQL Workbench  
@@ -95,4 +105,14 @@ Show you think ahead.
 - Extend analysis with joins (cast/director breakdown).
 - Add visualization in Power BI.
 - Compare Netflix with competitors (Prime, Disney+).
+
+## Author
+**Dimpy Bhardwaj**  
+Operations Executive – Merchant Onboarding & Compliance, Tasic Technology Private Limited
+Aspiring Data Analyst | Skilled in SQL, Python, Excel, Power BI  
+
+🔗 LinkedIn: [linkedin.com/in/dimpy-bhardwaj-data](https://www.linkedin.com/in/dimpy-bhardwaj-data/)  
+💻 GitHub: [github.com/dimpybhardwaj-data](https://github.com/dimpybhardwaj-data)
+
+
 
